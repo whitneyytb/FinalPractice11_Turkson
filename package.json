@@ -1,0 +1,16 @@
+{
+  "name": "practice11_turkson",
+  "version": "1.0.0",
+  "description": "Practice 11 Express deployment project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Whitney Turkson",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
